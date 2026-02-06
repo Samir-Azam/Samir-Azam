@@ -1,61 +1,93 @@
-<!-- ===================== HEADER ===================== -->
+<!-- ===================== HERO ===================== -->
 
-<h1 align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&pause=1200&color=2563EB&center=true&vCenter=true&width=520&lines=Samir+Azam;Full+Stack+Web+Developer"
-    alt="Typing SVG"
-  />
-</h1>
+<h1 align="center">Samir Azam</h1>
+
+<h3 align="center">
+  Full Stack Web Developer · Backend-Focused · System-Oriented
+</h3>
 
 <p align="center">
-  <em>Building clean, scalable, and user-focused web applications</em>
+  <em>Building scalable backends, clean APIs, and production-ready web systems</em>
 </p>
 
-<hr/>
+<br/>
 
-<!-- ===================== ABOUT ===================== -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/samir-azam/">
+    <img height="28" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/SamirAzam/">
+    <img height="28" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="mailto:azamsamir190@gmail.com">
+    <img height="28" src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
 
 ## 👋 About Me
 
-I am a **Full Stack Web Developer** with a strong inclination toward **backend development and system design**.  
-I enjoy building applications that are **reliable, maintainable, and structured for real-world usage**.
+I’m a **Full Stack Web Developer** with a strong focus on **backend engineering and system design**.
 
-My approach to development focuses on:
-- understanding requirements deeply  
-- designing clean APIs and data flow  
-- writing readable, predictable code  
-- balancing performance with simplicity  
+I enjoy working on problems that involve:
+- designing scalable backend architectures  
+- building clean, predictable REST APIs  
+- modeling real-world data and relationships  
+- writing maintainable, production-grade code  
+
+Rather than just shipping features, I care about **how systems behave as they grow** — reliability, clarity, and long-term maintainability.
 
 🎓 Computer Engineering student  
-🧠 Continuously improving problem-solving and core fundamentals  
+🧠 Actively strengthening backend fundamentals and problem-solving skills  
 
 ---
 
-<!-- ===================== TECH STACK ===================== -->
+## 🧠 Engineering Mindset
+
+- Understand the problem domain before writing code  
+- Design APIs and data flow intentionally  
+- Keep logic modular, readable, and testable  
+- Avoid premature optimization  
+- Prioritize clarity and correctness over cleverness  
+
+---
 
 ## 🛠 Technical Stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,vite,nodejs,express,mongodb,cpp,python,git" />
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript&logoColor=3178C6" />
+  <img src="https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=node.js&logoColor=339933" />
+  <img src="https://img.shields.io/badge/Express.js-111827?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-111827?style=for-the-badge&logo=mongodb&logoColor=47A248" />
 </p>
 
-**What I work with most**
-- RESTful API development  
-- Authentication & authorization (JWT)  
-- Pagination, filtering, search  
-- Modular backend architecture  
-- MongoDB schema & relationships  
+<br/>
+
+**Backend experience includes**
+- RESTful API design and implementation  
+- JWT-based authentication & authorization  
+- Pagination, filtering, and search  
+- Modular controller–service architecture  
+- MongoDB schema design & relationships  
 
 ---
 
-<!-- ===================== PROJECTS ===================== -->
-
 ## 🚀 Selected Projects
 
-### 🌐 SyncSpace — Real-Time Video Calling & Chat App  
-A real-time communication platform featuring chat, video calls, and global interaction.
+### 🌐 SyncSpace — Real-Time Video Calling & Chat Platform
 
-**Tech:** React • Node.js • Express • MongoDB • Stream API • Zustand  
+A real-time communication system supporting chat and video calls.
+
+**Backend & system highlights**
+- Real-time communication workflows  
+- Scalable backend architecture  
+- State management for live interactions  
+
+**Tech**  
+React · Node.js · Express · MongoDB · Stream API · Zustand  
 
 <a href="https://syncspace-vywz.onrender.com/login">
   <img src="https://img.shields.io/badge/Live%20Demo-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white" />
@@ -63,10 +95,18 @@ A real-time communication platform featuring chat, video calls, and global inter
 
 ---
 
-### 🎥 Motionly — Full Stack Video Sharing Platform  
-A YouTube-inspired MERN application with uploads, playlists, comments, likes, and subscriptions.
+### 🎥 Motionly — Full Stack Video Sharing Platform
 
-**Tech:** MERN • JWT • Cloudinary • REST APIs  
+A YouTube-inspired MERN application with a backend-first design.
+
+**Backend & system highlights**
+- Secure JWT-based authentication  
+- Video uploads using Cloudinary  
+- Playlists, comments, likes, and subscriptions  
+- Clean REST API design  
+
+**Tech**  
+MongoDB · Express · React · Node.js · JWT · Cloudinary  
 
 <a href="https://motionly-1.onrender.com">
   <img src="https://img.shields.io/badge/Live%20Demo-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white" />
@@ -74,10 +114,17 @@ A YouTube-inspired MERN application with uploads, playlists, comments, likes, an
 
 ---
 
-### 🧠 AI Resume Analyzer  
-An AI-powered web application that analyzes resumes and provides ATS-style feedback.
+### 🧠 AI Resume Analyzer
 
-**Tech:** React • TypeScript • Tailwind • Puter.js  
+An AI-powered application that provides ATS-style resume feedback.
+
+**Highlights**
+- Resume structure and content analysis  
+- Actionable improvement suggestions  
+- Focused on recruiter relevance  
+
+**Tech**  
+React · TypeScript · Tailwind · Puter.js  
 
 <a href="https://ai-resume-analyzer-delta-ten.vercel.app">
   <img src="https://img.shields.io/badge/Live%20Demo-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white" />
@@ -85,37 +132,34 @@ An AI-powered web application that analyzes resumes and provides ATS-style feedb
 
 ---
 
-<!-- ===================== PROBLEM SOLVING ===================== -->
-
 ## 🧠 Problem Solving
 
+I actively practice **Data Structures & Algorithms**, with a focus on:
+- logical clarity  
+- edge cases  
+- time and space efficiency  
+
 <p align="center">
-  <img
-    src="https://leetcard.jacoblin.cool/SamirAzam?font=Inter"
-    alt="LeetCode Stats"
-  />
+  <img src="https://leetcard.jacoblin.cool/SamirAzam?font=Inter" />
 </p>
 
 ---
 
-<!-- ===================== CONNECT ===================== -->
+## 🤝 Let’s Connect
 
-## 🌐 Connect With Me
+If you’re interested in **backend-heavy projects, scalable systems, or collaboration**, feel free to reach out.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/samir-azam/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://leetcode.com/u/SamirAzam/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black">
+    <img height="26" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:azamsamir190@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white">
+    <img height="26" src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <em>I value clarity, consistency, and correctness in software development.</em>
+  <em>Clarity over cleverness. Systems over shortcuts.</em>
 </p>
