@@ -7,7 +7,7 @@
 </h3>
 
 <p align="center">
-  <em>Building scalable backends, clean APIs, and production-ready web systems</em>
+  <em>Building scalable backends, clean APIs, and production-ready systems</em>
 </p>
 
 <br/>
@@ -28,28 +28,21 @@
 
 ## 👋 About Me
 
-I’m a **Full Stack Web Developer** with a strong focus on **backend engineering and system design**.
+I’m a **Full Stack Web Developer** focused on **backend engineering and system design**.
 
-I enjoy working on problems that involve:
-- designing scalable backend architectures  
-- building clean, predictable REST APIs  
-- modeling real-world data and relationships  
-- writing maintainable, production-grade code  
-
-Rather than just shipping features, I care about **how systems behave as they grow** — reliability, clarity, and long-term maintainability.
+I build scalable APIs, design clean data models, and write production-ready code.
 
 🎓 Computer Engineering student  
-🧠 Actively strengthening backend fundamentals and problem-solving skills  
+🧠 Focused on backend systems and problem solving  
 
 ---
 
 ## 🧠 Engineering Mindset
 
-- Understand the problem domain before writing code  
-- Design APIs and data flow intentionally  
-- Keep logic modular, readable, and testable  
-- Avoid premature optimization  
-- Prioritize clarity and correctness over cleverness  
+- Design systems before writing code  
+- Write clean, modular, and testable logic  
+- Focus on scalability and maintainability  
+- Prioritize clarity over cleverness  
 
 ---
 
@@ -67,11 +60,11 @@ Rather than just shipping features, I care about **how systems behave as they gr
 <br/>
 
 **Backend experience includes**
-- RESTful API design and implementation  
-- JWT-based authentication & authorization  
+- RESTful API design  
+- JWT authentication & authorization  
 - Pagination, filtering, and search  
 - Modular controller–service architecture  
-- MongoDB schema design & relationships  
+- MongoDB schema design  
 
 ---
 
@@ -81,7 +74,7 @@ Rather than just shipping features, I care about **how systems behave as they gr
 
 A real-time communication system supporting chat and video calls.
 
-**Backend & system highlights**
+**Highlights**
 - Real-time communication workflows  
 - Scalable backend architecture  
 - State management for live interactions  
@@ -99,10 +92,10 @@ React · Node.js · Express · MongoDB · Stream API · Zustand
 
 A YouTube-inspired MERN application with a backend-first design.
 
-**Backend & system highlights**
-- Secure JWT-based authentication  
-- Video uploads using Cloudinary  
-- Playlists, comments, likes, and subscriptions  
+**Highlights**
+- JWT-based authentication  
+- Cloudinary video uploads  
+- Playlists, comments, likes, subscriptions  
 - Clean REST API design  
 
 **Tech**  
@@ -119,9 +112,8 @@ MongoDB · Express · React · Node.js · JWT · Cloudinary
 An AI-powered application that provides ATS-style resume feedback.
 
 **Highlights**
-- Resume structure and content analysis  
-- Actionable improvement suggestions  
-- Focused on recruiter relevance  
+- Resume analysis & improvement suggestions  
+- Focus on recruiter relevance  
 
 **Tech**  
 React · TypeScript · Tailwind · Puter.js  
@@ -134,8 +126,8 @@ React · TypeScript · Tailwind · Puter.js
 
 ## 🧠 Problem Solving
 
-I actively practice **Data Structures & Algorithms**, with a focus on:
-- logical clarity  
+I actively practice **Data Structures & Algorithms**, focusing on:
+- problem clarity  
 - edge cases  
 - time and space efficiency  
 
@@ -147,7 +139,7 @@ I actively practice **Data Structures & Algorithms**, with a focus on:
 
 ## 🤝 Let’s Connect
 
-If you’re interested in **backend-heavy projects, scalable systems, or collaboration**, feel free to reach out.
+Interested in **backend systems, scalable architectures, or collaboration?** Let’s connect.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/samir-azam/">
