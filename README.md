@@ -1,25 +1,26 @@
+
 <!-- ========================= HEADER ========================= -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F2027,50:203A43,100:2C5364&text=Samir%20Azam&fontColor=ffffff&fontSize=48&fontAlignY=40&desc=Backend-Focused%20Full%20Stack%20Developer&descAlignY=60"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F2027,50:203A43,100:2C5364&text=Samir%20Azam&fontColor=ffffff&fontSize=48&fontAlignY=40&desc=Backend-Focused%20Full%20Stack%20Developer&descAlignY=60"/>
 </p>
 
-<h3 align="center">
+<h2 align="center">
 Backend Engineer • System Design Enthusiast • DSA Practitioner
-</h3>
+</h2>
 
 <p align="center">
 Building scalable backend systems, production-ready APIs, and software that lasts.
 </p>
 
 <p align="center">
-<b>Node.js • Express • MongoDB • React • TypeScript</b>
+<strong>Node.js • Express • MongoDB • React • TypeScript</strong>
 </p>
 
 <p align="center">
 
 <a href="https://github.com/Samir-Azam">
-<img src="https://img.shields.io/github/followers/Samir-Azam?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/samir-azam/">
@@ -42,56 +43,56 @@ Building scalable backend systems, production-ready APIs, and software that last
 
 - 🎓 Final-Year Computer Engineering Student
 - 💻 Backend-Focused Full Stack Developer
-- ⚡ Passionate about scalable backend systems, distributed systems, and clean software architecture
-- 🧠 Consistently solving Data Structures & Algorithms problems
-- 🚀 Currently exploring System Design, Docker, Redis, and Backend Performance
-- 🎯 Seeking Backend / Software Engineering Internship opportunities
+- 🏗️ Building scalable backend systems and production-ready APIs
+- 🧠 Passionate about Data Structures, Algorithms, and System Design
+- 🚀 Exploring Docker, Redis, and Distributed Systems
+- 🎯 Open to Software Engineering & Backend opportunities
 
 ---
 
 # 💻 Tech Stack
 
-### Languages
+## Languages
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=cpp,js,ts,python,java"/>
 </p>
 
-### Backend
+## Backend
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb"/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,docker,redis"/>
 </p>
 
-<p>
+<p align="center">
 
 <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens"/>
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens"/>
 
 <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white"/>
 
 </p>
 
-### Frontend
+## Frontend
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=react,tailwind"/>
 </p>
 
-### Tools
+## Tools
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,linux,postman,docker,vscode"/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,linux,postman,vscode"/>
 </p>
 
 ---
 
-# ⭐ Featured Project
+# 🚀 Featured Projects
 
 ## 🎥 Motionly — Video Sharing Platform
 
-A backend-first MERN application inspired by YouTube, focused on scalable API design, secure authentication, and efficient media management.
+Backend-first MERN application inspired by YouTube, focused on scalable API design, secure authentication, and efficient media management.
 
 ### Highlights
 
@@ -122,19 +123,19 @@ A backend-first MERN application inspired by YouTube, focused on scalable API de
 
 ---
 
-# 🚀 Other Projects
+## 💬 SyncSpace — Real-Time Communication Platform
 
-## 💬 SyncSpace
-
-A real-time communication platform supporting messaging and video meetings with scalable backend workflows.
+Real-time messaging and video communication platform with secure authentication and video calling.
 
 ### Highlights
 
 - 💬 Real-Time Messaging
-- 🔐 Authentication
-- 📹 Video Call Integration
-- 📱 Responsive UI
-- ⚡ Backend Designed for Live Communication
+- 📹 Video Calling
+- 🔐 Secure Authentication
+- ⚡ Responsive UI
+- 🏗️ Backend Designed for Live Communication
+
+**Tech Stack**
 
 `React` • `Node.js` • `Express` • `MongoDB`
 
@@ -152,9 +153,9 @@ A real-time communication platform supporting messaging and video meetings with 
 
 ---
 
-## 🤖 AI Resume Analyzer
+## 🤖 AI Resume Analyzer — AI-Powered ATS Evaluation
 
-An AI-powered ATS Resume Evaluation platform that provides structured resume feedback.
+AI-powered platform that evaluates resumes for ATS compatibility and provides actionable feedback.
 
 ### Highlights
 
@@ -162,6 +163,8 @@ An AI-powered ATS Resume Evaluation platform that provides structured resume fee
 - 🤖 AI Feedback
 - 📈 ATS Compatibility Analysis
 - ⭐ Resume Scoring
+
+**Tech Stack**
 
 `React` • `TypeScript` • `AI APIs`
 
@@ -179,60 +182,15 @@ An AI-powered ATS Resume Evaluation platform that provides structured resume fee
 
 ---
 
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Samir-Azam&theme=github_dark"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Samir-Azam&theme=github_dark" width="48%"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Samir-Azam&theme=github_dark" width="48%"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Samir-Azam&theme=github-dark&hide_border=true"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Samir-Azam&theme=github-dark&hide_border=true"/>
-
-</p>
-
----
-
 # 🧠 DSA Journey
 
-I enjoy solving algorithmic problems with emphasis on:
-
-- Time & Space Optimization
-- Clean & Maintainable Code
-- Edge Case Analysis
-- Interview Preparation
+I regularly practice Data Structures & Algorithms to strengthen problem-solving, optimize solutions, and prepare for software engineering interviews.
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Problems%20Solved-286-orange?style=for-the-badge&logo=leetcode"/>
-
-<img src="https://img.shields.io/badge/Global%20Ranking-519324-blue?style=for-the-badge"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://leetcard.jacoblin.cool/SamirAzam?theme=dark&font=Inter"/>
+<a href="https://leetcode.com/u/SamirAzam/">
+<img src="https://leetcard.jacoblin.cool/SamirAzam?theme=dark&font=Inter&ext=contest"/>
+</a>
 
 </p>
 
